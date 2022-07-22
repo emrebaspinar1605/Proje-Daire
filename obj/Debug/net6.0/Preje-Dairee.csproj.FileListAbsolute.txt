@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\bin\Debug\net6.0\Preje-Dairee.exe
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\bin\Debug\net6.0\Preje-Dairee.deps.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\bin\Debug\net6.0\Preje-Dairee.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\bin\Debug\net6.0\Preje-Dairee.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\bin\Debug\net6.0\Preje-Dairee.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\obj\Debug\net6.0\Preje-Dairee.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\obj\Debug\net6.0\Preje-Dairee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\obj\Debug\net6.0\Preje-Dairee.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\obj\Debug\net6.0\Preje-Dairee.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\obj\Debug\net6.0\Preje-Dairee.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\obj\Debug\net6.0\Preje-Dairee.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\obj\Debug\net6.0\refint\Preje-Dairee.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\obj\Debug\net6.0\Preje-Dairee.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\obj\Debug\net6.0\Preje-Dairee.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Preje-Dairee\obj\Debug\net6.0\ref\Preje-Dairee.dll
